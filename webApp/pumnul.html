@@ -1,0 +1,71 @@
+<html>
+
+<head>
+    <title>In the footsteps of Eminescu &amp; AR-poetry experience</title>
+
+    <script src="https://aframe.io/releases/1.0.4/aframe.min.js"></script>
+    <script src="https://unpkg.com/aframe-look-at-component@0.8.0/dist/aframe-look-at-component.min.js"></script>
+    <script src="./scripts/aframe-ar-nft.js"></script>
+    <script src="https://rawgit.com/donmccurdy/aframe-extras/master/dist/aframe-extras.loaders.min.js"></script>
+    <script
+        src="https://unpkg.com/aframe-text-geometry-component@^0.5.0/dist/aframe-text-geometry-component.min.js"></script>
+
+
+
+</head>
+
+<body>
+
+    <a-scene id="scene">
+
+
+
+        <a-camera position="0 1.2 0" look-controls-enabled='false' arjs-look-controls='smoothingFactor: 0.2'
+            gps-camera='gpsMinDistance: 100' rotation-reader></a-camera>
+
+        <!-- 2D environment omitted for simplicity -->
+
+        <a-entity id="dino" position="-1 0 -3" scale="0.5 0.5 0.5">
+            <a-entity id="text" position="0 6 0" rotation="0 55 0" scale="5 5 5" gltf-model="./models/ChePumnul/01.gltf"
+                gps-projected-entity-place="latitude: 48.2938245 ; longitude:25.9374127 ;" 
+sound="src: ./audio-assets/AronPumnlul.mp3; autoplay: true"animation-mixer
+                shadow="cast: true; receive: false"></a-entity>
+        </a-entity>
+
+        <!-- Lights configuration omitted for simplicity -->
+    </a-scene>
+
+    <script>
+
+        function sleep(ms) {
+            return new Promise(resolve => setTimeout(resolve, ms));
+        }
+
+        var scene = document.getElementById('scene');
+        console.log(scene);
+        if (scene.hasLoaded) {
+            run();
+        } else {
+            scene.addEventListener('loaded', run);
+        }
+
+        async function run() {
+            var someText = document.querySelector('#text');
+
+            await sleep(22000);
+            someText.setAttribute('gltf-model', "./models/ChePumnul/02.gltf");
+            await sleep(15200);
+            someText.setAttribute('gltf-model', "./models/ChePumnul/03.gltf");
+            await sleep(15100);
+            someText.setAttribute('tgltf-model', "./models/ChePumnul/04.gltf");
+            await sleep(15000);
+            someText.setAttribute('gltf-model', "./models/ChePumnul/05.gltf");
+            await sleep(15400);
+            someText.setAttribute('gltf-model', "./models/ChePumnul/06.gltf");
+
+        }
+
+    </script>
+
+
+</body>
