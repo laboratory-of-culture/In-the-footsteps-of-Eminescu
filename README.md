@@ -1,9 +1,8 @@
 # In the footsteps of Eminescu
 ### handbook | development kit
 
-[![Build Status](https://eminescuplaces.com/)
-
-At the moment beta version is deployed here https://eminescuplaces.com/
+[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
+At the moment beta version is deployed here https://eminescuplaces.com
 
 - Mobile web AR 
 - In the footsteps of Eminescu & AR-poetry experience
