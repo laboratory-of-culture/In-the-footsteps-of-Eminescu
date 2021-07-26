@@ -337,8 +337,8 @@ It works on every phone with webgl and webrtc. Marker based is very lightweight,
 If you want to enhance and customize your Location Based experience, take a look at the [Location Based docs](https://ar-js-org.github.io/AR.js-Docs/location-based.md).
 
 
-
+[![N|Solid](https://houseofeurope.org.ua/assets/logo-27ccdf70675317cd6fb631598b70c184930f8cc88809f15d194316522226d66e.svg)](https://houseofeurope.org.ua/)
 
 In the footsteps of Eminescu project is supported by the European Union under the House of Europe programme.
-[![N|Solid](https://houseofeurope.org.ua/assets/logo-27ccdf70675317cd6fb631598b70c184930f8cc88809f15d194316522226d66e.svg)](https://houseofeurope.org.ua/)
+
 
