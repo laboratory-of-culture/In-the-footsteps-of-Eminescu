@@ -309,7 +309,7 @@ What Web AR means (Augmented Reality on the Web)
 
 ![asset2](https://github.com/laboratory-of-culture/In-the-footsteps-of-Eminescu/blob/main/handbook-assets/asset2.png)
 
-Augmented Reality is the technology that makes possible to add overlayed content on the real world. It can be provided for several type of devices: handleheld (like mobile phones), headsets, desktop displays, and so on. For handleheld devices (more in general, for video-see-through devices) the 'reality' is captured from one or more cameras and then shown on the device display, adding some kind of content on top of it.\
+Augmented Reality is the technology that makes possible to add overlayed content on the real world. It can be provided for several type of devices: handleheld (like mobile phones), headsets, desktop displays, and so on. For handleheld devices (more in general, for video-see-through devices) the 'reality' is captured from one or more cameras and then shown on the device display, adding some kind of content on top of it.
 
 ![asset3](https://github.com/laboratory-of-culture/In-the-footsteps-of-Eminescu/blob/main/handbook-assets/asset5.jpg)
 ![asset3](https://github.com/laboratory-of-culture/In-the-footsteps-of-Eminescu/blob/main/handbook-assets/asset6.jpg)
@@ -348,7 +348,7 @@ It works on every phone with webgl and webrtc. Marker based is very lightweight,
 If you want to enhance and customize your Location Based experience, take a look at the [Location Based docs](https://ar-js-org.github.io/AR.js-Docs/location-based.md).
 
 
-### Disclaimer\
+### Disclaimer
 [![N|Solid](https://houseofeurope.org.ua/assets/logo-27ccdf70675317cd6fb631598b70c184930f8cc88809f15d194316522226d66e.svg)](https://houseofeurope.org.ua/)
 
 In the footsteps of Eminescu project is supported by the European Union under the House of Europe programme.
