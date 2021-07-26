@@ -2,7 +2,7 @@
 ### handbook | development kit
 
 In the footsteps of Eminescu project is supported by the European Union under the House of Europe programme.
-
+![asset1](https://github.com/laboratory-of-culture/In-the-footsteps-of-Eminescu/blob/main/handbook-assets/asset1.png)
 
 ## Abstract
 
