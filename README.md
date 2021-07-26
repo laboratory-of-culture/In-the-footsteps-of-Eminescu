@@ -1,8 +1,18 @@
 # In the footsteps of Eminescu
 ### handbook | development kit
 
+[![Build Status](https://eminescuplaces.com/)
+
+At the moment beta version is deployed here https://eminescuplaces.com/
+
+- Mobile web AR 
+- In the footsteps of Eminescu & AR-poetry experience
+- ✨Magic ✨
+
 In the footsteps of Eminescu project is supported by the European Union under the House of Europe programme.
 ![asset1](https://github.com/laboratory-of-culture/In-the-footsteps-of-Eminescu/blob/main/handbook-assets/asset1.png)
+
+
 
 ## Abstract
 
@@ -324,7 +334,8 @@ shadow="cast: true; receive: false"></a-entity>
 
 Animated text was developed using gltf 2.0
 
-glTF (derivative short form of Graphics Language Transmission Format or GL Transmission Format) is a standard file format for three-dimensional scenes and models. A glTF file uses one of two possible file extensions, .gltf (JSON/ASCII) or .glb (binary). A .gltf file may be self-contained or may reference external binary and texture resources, while a .glb file is entirely self-contained. An open standard developed and maintained by the Khronos Group, it supports 3D model geometry, appearance, scene graph hierarchy, and animation. It is intended to be a streamlined, interoperable format for the delivery of 3D assets, while minimizing file size and runtime processing by apps.As such, its creators have described it as the "JPEG of 3D." The binary version of the format is called GLB, where all assets are stored in a single file.
+glTF (derivative short form of Graphics Language Transmission Format or GL Transmission Format) is a standard file format for three-dimensional scenes and models. A glTF file uses one of two possible file extensions, .gltf (JSON/ASCII) or .glb (binary). A .gltf file may be self-contained or may reference external binary and texture resources, while a .glb file is entirely self-contained. An open standard developed and maintained by the Khronos Group, it supports 3D model geometry, appearance, scene graph hierarchy, and animation. It is intended to be a streamlined, interoperable format for the delivery of 3D assets, while minimizing file size and runtime processing by apps.As such, its creators have described it as the "JPEG of 3D." The binary version of the format is called GLB, where all assets are stored in a single file.\
+
 ![asset4](https://github.com/laboratory-of-culture/In-the-footsteps-of-Eminescu/blob/main/handbook-assets/asset8.gif)
 
 
@@ -337,8 +348,10 @@ It works on every phone with webgl and webrtc. Marker based is very lightweight,
 If you want to enhance and customize your Location Based experience, take a look at the [Location Based docs](https://ar-js-org.github.io/AR.js-Docs/location-based.md).
 
 
+###Disclaimer
 [![N|Solid](https://houseofeurope.org.ua/assets/logo-27ccdf70675317cd6fb631598b70c184930f8cc88809f15d194316522226d66e.svg)](https://houseofeurope.org.ua/)
 
 In the footsteps of Eminescu project is supported by the European Union under the House of Europe programme.
 
+This project was developed in cooperation with OpenHub Creative Cluster. Also we want list people who make this project possible: Oksana Chmil, Taras Chornyi, Khrystia Krushelnystka, Dmytro Mitsevych, Olena Lysenko, Vio Badea, Oana Ciobanu, Ihor Mosin, Ivanna Annyn, Dmytro Fakas, Vyacheslav Razumov, Mihai Eminescu Society of Romanian Culture, ROMANIAN CC EUDOXIU HURMUZACHI, Chernivtsi Museum of Local Lore
 
