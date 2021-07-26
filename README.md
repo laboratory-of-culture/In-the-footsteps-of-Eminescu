@@ -298,7 +298,11 @@ Unde te duci? Când o să vii?\
 
 What Web AR means (Augmented Reality on the Web)
 
+![asset2](https://github.com/laboratory-of-culture/In-the-footsteps-of-Eminescu/blob/main/handbook-assets/asset2.png)
+
 Augmented Reality is the technology that makes possible to add overlayed content on the real world. It can be provided for several type of devices: handleheld (like mobile phones), headsets, desktop displays, and so on. For handleheld devices (more in general, for video-see-through devices) the 'reality' is captured from one or more cameras and then shown on the device display, adding some kind of content on top of it.
+
+![asset3](https://github.com/laboratory-of-culture/In-the-footsteps-of-Eminescu/blob/main/handbook-assets/asset7.gif)
 
 __Location Based AR__, this kind of AR uses real-world places in order to show Augmented Reality content, on the user device. The experiences that can be built with this library are those that uses users position in the real world. The user can move (ideally outdoor) and through their smartphones they can see AR content where places are in the real world. Moving around and rotating the phone will make the AR content change according to users position and rotation (so places are 'sticked' in their real position, and appear bigger/thinner according to their distance from the user). With this solution it’s possible to build experiences like interactive support for touristic guides, support when exploring a new city, find places of interest like buildings, museums, restaurants, hotels and so on. It’s also possible to build learning experiences like treasure hunts and biology or history learning games, or use this technology for situated art (visual art experiences bound to specific real world coordinates).
 
@@ -320,6 +324,8 @@ shadow="cast: true; receive: false"></a-entity>
 Animated text was developed using gltf 2.0
 
 glTF (derivative short form of Graphics Language Transmission Format or GL Transmission Format) is a standard file format for three-dimensional scenes and models. A glTF file uses one of two possible file extensions, .gltf (JSON/ASCII) or .glb (binary). A .gltf file may be self-contained or may reference external binary and texture resources, while a .glb file is entirely self-contained. An open standard developed and maintained by the Khronos Group, it supports 3D model geometry, appearance, scene graph hierarchy, and animation. It is intended to be a streamlined, interoperable format for the delivery of 3D assets, while minimizing file size and runtime processing by apps.As such, its creators have described it as the "JPEG of 3D." The binary version of the format is called GLB, where all assets are stored in a single file.
+![asset4](https://github.com/laboratory-of-culture/In-the-footsteps-of-Eminescu/blob/main/handbook-assets/asset8.gif)
+
 
 
 
@@ -332,8 +338,6 @@ If you want to enhance and customize your Location Based experience, take a look
 
 
 
-
+In the footsteps of Eminescu project is supported by the European Union under the House of Europe programme.
 [![N|Solid](https://houseofeurope.org.ua/assets/logo-27ccdf70675317cd6fb631598b70c184930f8cc88809f15d194316522226d66e.svg)](https://houseofeurope.org.ua/)
-
-![N|Solid](https://houseofeurope.org.ua/assets/eu-b969ebf496a553284f43ca57fd8024a9707069cfb5feccd029651b0d5082ca43.svg)
 
