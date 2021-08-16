@@ -21,6 +21,38 @@ Choosing the places associated with the life and work of this poet in Chernivtsi
 
 ## Concept
 
+Literature and place seem to stand in a dual relationship, in which
+they affect each other reciprocally. Places, of course, are part of
+the material of literature – whether it is seemingly directly through
+realistic depictions of real-world places, or more indirectly as
+models for imagined places. On the other hand, literary texts are
+part of the cultural processes whereby human landscapes (and
+places) are constructed as dwellings for human beings, societies
+and cultures. When an author writes a text about a place – be it
+James Joyce writing about Dublin, Knut Hamsun about Oslo, or
+Allen Ginsberg about San Francisco – the place changes as a
+result of it. This is obviously true for certain famous and canonical
+texts, which frequently leave their physical marks on places – in
+the shape of statues of their authors, inscribed quotes, memorial
+plaques, literary tours and so on. But in principle it is true for
+every little text, no matter how insignificant, as long as it is read
+and shared among a small community of readers.
+If these arguments are accepted, then the study of the relationship
+between literary texts and the places they deal with should be a
+matter of interest not just to literary critics and authors, but to
+society at large. Making visible and accessible the invisible layers
+of meanings formed by the literary texts connected with places
+and landscapes has a potential not just for preservation and
+dissemination of cultural heritage, but also for enriching people's
+experience of their local environment (whether it is the one they
+live in, or one they are visiting). Furthermore, if the public could
+be encouraged to enter into dialogue with the literary heritage –
+that is, by writing and sharing their own texts in a place-centricsystem – this would entail a measure of cultural and democratic
+empowerment of citizens with regard to their local environment.
+
+
+
+
 Was developed the concept of walking route with and poetry text which belons to and a place
 
 ##### Chernivtsi (1858-1866)
