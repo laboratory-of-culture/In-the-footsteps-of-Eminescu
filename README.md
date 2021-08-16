@@ -444,17 +444,6 @@ It has to be added to the `a-scene`:
 <a-scene gps-camera-debug embedded arjs='sourceType: webcam; debugUIEnabled: false;'></a-scene>
 ```
 
-## Location Based Support
-
-Tried on Huawei P20, works like charm.
-
-Works good also on iPhone 6.
-
-On iOS, from 12.2, Motion sensors on Safari has be to activated from Settings. If not, GeoAR.js will prompt the user to do so.
-This [may change with final release of iOS 13](https://developer.apple.com/documentation/safari_release_notes/safari_13_beta_6_release_notes) but as September 2019 is not yet out.
-
-We need a lot of more tests, but the first impression is: the more advanced the phone (so newer) the better. This because of better quality sensors.
-
 ![asset3](https://github.com/laboratory-of-culture/In-the-footsteps-of-Eminescu/blob/main/handbook-assets/asset6.jpg)
 ![asset3](https://github.com/laboratory-of-culture/In-the-footsteps-of-Eminescu/blob/main/handbook-assets/asset7.gif)
 
