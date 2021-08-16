@@ -349,7 +349,7 @@ If you want to enhance and customize your Location Based experience, take a look
 
 
 ### Disclaimer
-[![N|Solid](ttps://github.com/laboratory-of-culture/In-the-footsteps-of-Eminescu/blob/main/handbook-assets/logos.png)](https://houseofeurope.org.ua/)
+[![N|Solid](https://github.com/laboratory-of-culture/In-the-footsteps-of-Eminescu/blob/main/handbook-assets/logos.png)](https://houseofeurope.org.ua/)
 
 In the footsteps of Eminescu project is supported by the European Union under the House of Europe programme.
 
